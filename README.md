@@ -8,11 +8,11 @@ The brief takes its name from *Margin Call*. It asks for simple explanations wit
 
 ## What it does
 
-- Requires ASD-STE100 Simplified Technical English in replies to the user.
+- Applies ASD-STE100 Simplified Technical English to all replies, including work updates, questions, and final answers.
 - Puts the answer first and makes the next action clear.
 - Uses short sections and visible task state to help readers with ADHD.
+- Uses literal statements instead of decorative metaphors and clever phrases.
 - Keeps facts, warnings, and necessary detail intact.
-- Applies to work updates and questions as well as final answers.
 
 It does not shorten the work itself. Code and exact quotes keep their original text.
 Read [SKILL.md](SKILL.md) for the full instructions.

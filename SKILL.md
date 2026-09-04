@@ -31,6 +31,18 @@ Keep code, commands, paths, identifiers, and direct quotations exact. Apply STE 
 Follow an explicit request for another language or an exact output format.
 Do not claim full STE compliance without checking the complete rules and dictionary.
 
+## Avoid mannered prose
+
+State the meaning directly. Use a literal phrase when one is available.
+Do not replace a clear term with a decorative metaphor or clever phrase.
+Such phrases make the reader interpret extra meanings. They draw attention to the writer instead of the idea.
+They are imprecise because they add meanings that the writer did not choose.
+
+- Write "a parameter worth varying," not "a dial worth turning."
+- Write "this point still matters," not "this point earns its keep."
+
+Use a metaphor only when it makes the meaning clearer, or when the user asks for creative prose.
+
 ## Make the reply easy to use
 
 - Put the result or needed decision first. For a request for instructions, start with the first useful action.
