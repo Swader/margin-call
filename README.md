@@ -8,7 +8,8 @@ The brief takes its name from *Margin Call*. It asks for simple explanations wit
 
 ## What it does
 
-- Applies ASD-STE100 Simplified Technical English to all replies, including work updates, questions, and final answers.
+- Uses clear, direct language in replies, work updates, questions, and final answers.
+- Applies formal ASD-STE100 requirements when explicitly requested; full compliance requires the complete standard and dictionary.
 - Puts the answer first and makes the next action clear.
 - Uses short sections and visible task state to help readers with ADHD.
 - Uses literal statements instead of decorative metaphors and clever phrases.
@@ -42,7 +43,7 @@ The skill allows automatic selection. To request it for every reply, add this li
 Always use the margin-call skill when speaking to me.
 ```
 
-The skill keeps its style across turns after activation. Installation alone does not guarantee selection in every task.
+Installation alone does not guarantee selection in every task.
 
 ## Example
 
