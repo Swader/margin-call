@@ -11,6 +11,9 @@ The brief takes its name from *Margin Call*. It asks for simple explanations wit
 - Uses clear, direct language in replies, work updates, questions, and final answers.
 - Applies formal ASD-STE100 requirements when explicitly requested; full compliance requires the complete standard and dictionary.
 - Puts the answer first and makes the next action clear.
+- Explains what happened, why it happened, and what it meant for the user before shortening the message.
+- Names concrete actions instead of vague labels such as "running checks."
+- Links verified causal PRs when relevant and distinguishes proven causes from suspected ones.
 - Uses short sections and visible task state to help readers with ADHD.
 - Uses literal statements instead of decorative metaphors and clever phrases.
 - Keeps facts, warnings, and necessary detail intact.
@@ -54,6 +57,16 @@ Before:
 After:
 
 > The upload failed. The server rejected the API key. Check that the key belongs to this project.
+
+Short wording can still hide the meaning:
+
+> Deployments can cut off running checks.
+
+Explain the actual work and failure:
+
+> The assistant was opening pages in a browser to test menus and mobile layouts. When we updated our software, we closed the connection before it received the results.
+
+The skill includes a fictional two-paragraph incident update. It shows how to keep the cause, user impact, uncertainty, and next action in a short message.
 
 ## Sources and limits
 
